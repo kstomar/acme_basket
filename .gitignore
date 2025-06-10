@@ -1,0 +1,6 @@
+# Add your gitignore entries here
+.DS_Store
+.byebug_history
+.rspec
+vendor/
+Makefile
